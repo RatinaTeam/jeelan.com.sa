@@ -830,7 +830,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.4);
   -webkit-backdrop-filter: saturate(180%) blur(50px);
   backdrop-filter: saturate(180%) blur(50px);
 }
@@ -2227,7 +2227,7 @@ section{background-color:#fff}body{font-style:normal;line-height:1.5;font-weight
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.4);
   -webkit-backdrop-filter: saturate(180%) blur(50px);
   backdrop-filter: saturate(180%) blur(50px);
 }
