@@ -83,11 +83,11 @@
       "settings": {
         "main": true,
         "title": "جيلان للخدمات اللوجستية",
-        "meta_descr": "",
+        "meta_descr": "ندعم أهداف رؤية المملكة 2030 الطموحة المتمثلة في دعم وتعزيز مكانة المملكة كأهم وأكبر مركز لوجستي في المنطقة",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/alanadee-logo%20(1000%20%C3%97%201000%20px)%20(1)-1500x1500.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/fulll-logo-jeelan-500x417.png"
       },
       "components": [
         {
@@ -1710,7 +1710,8 @@
     "tracking.html": {
       "settings": {
         "title": "تتبع الشحنات - شركة جيلان للخدمات اللوجستية",
-        "order": 1
+        "order": 1,
+        "meta_image": "@PROJECT_PATH@/assets/images/fulll-logo-jeelan-500x417.png"
       },
       "components": [
         {
